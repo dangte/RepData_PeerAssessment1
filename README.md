@@ -1,22 +1,12 @@
 ## Introduction
 
-It is now possible to collect a large amount of data about personal
-movement using activity monitoring devices such as a
-[Fitbit](http://www.fitbit.com), [Nike
-Fuelband](http://www.nike.com/us/en_us/c/nikeplus-fuelband), or
-[Jawbone Up](https://jawbone.com/up). These type of devices are part of
-the "quantified self" movement -- a group of enthusiasts who take
-measurements about themselves regularly to improve their health, to
-find patterns in their behavior, or because they are tech geeks. But
-these data remain under-utilized both because the raw data are hard to
-obtain and there is a lack of statistical methods and software for
-processing and interpreting the data.
-
-This assignment makes use of data from a personal activity monitoring
-device. This device collects data at 5 minute intervals through out the
-day. The data consists of two months of data from an anonymous
-individual collected during the months of October and November, 2012
-and include the number of steps taken in 5 minute intervals each day.
+For the peer reviewers. Please use the 'Download Zip' button to download the whole 
+content of my project submission, then you open the PA1_template.html (with all
+figures inside the 'PA1_template_files/figure-html' directory to evaluate my code
+You can also use the PA1_template.Rmd file to load into Rstudio and then use Knitr
+button to run and see the output. I also attach a PA1_template.R file with all
+the neccessary code for you to review. Hope that you also finish your assignment
+Thanks
 
 ## Data
 
@@ -141,7 +131,7 @@ To submit the assignment:
 
 2. Commit your `PA1_template.md` and `PA1_template.html` files produced by processing your R markdown file with the `knit2html()` function in R (from the **knitr** package)
 
-3. If your document has figures included (it should) then they should have been placed in the `figures/` directory by default (unless you overrode the default). Add and commit the `figures/` directory to your git repository.
+3. If your document has figures included (it should) then they should have been placed in the `figure/` directory by default (unless you overrode the default). Add and commit the `figure/` directory to your git repository.
 
 4. Push your `master` branch to GitHub.
 
